@@ -10,4 +10,4 @@ The following table contains the problems with solutions:
 
 | Problem | Category | Difficulty |Solution |
 | --- | --- | --- | --- |
-| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | String | Easy | [Solution](Leetcode_Solutions/1768_Merge Strings_Alternately) |
+| [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | String | Easy | [Solution](Leetcode_Solutions/1768_Merge_Strings_Alternately) |
