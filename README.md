@@ -1,9 +1,9 @@
-# LeetCode
+# LeetCode Solutions 🚀
 This repository documents my LeetCode journey, showcasing solutions to various LeetCode problems. Each solution is implemented in JavaScript and includes explanations and comments where necessary.
 
 
 
-LeetCode Solutions
+Solutions
 ==================
 
 The following table contains the problems with solutions:
